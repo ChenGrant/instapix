@@ -1,0 +1,18 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/ChenGrant/instapix-api
+[submodule "client"]
+	path = client
+	url = https://github.com/ChenGrant/instapix-client
+[submodule "photos"]
+	path = photos
+	url = https://github.com/ChenGrant/instapix-photos
+[submodule "posts"]
+	path = posts
+	url = https://github.com/ChenGrant/instapix-posts
+[submodule "users"]
+	path = users
+	url = https://github.com/ChenGrant/instapix-users
+[submodule "word2vec"]
+	path = word2vec
+	url = https://github.com/ChenGrant/instapix-word2vec
